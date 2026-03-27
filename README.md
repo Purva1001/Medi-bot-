@@ -2,11 +2,6 @@
 
 > A rule-based NLP chatbot that answers common health and medical queries through a fully interactive command-line interface.
 
-**Course:** Fundamentals of AI and ML — CSA2001  
-**Type:** BYOP (Bring Your Own Project) — Capstone Submission  
-**Language:** Python 3 | No external API required
-
----
 
 ## 📌 What Does MediBot Do?
 
@@ -53,31 +48,6 @@ MediBot/
   - `datetime` — Timestamping logs
   - `difflib` — Fuzzy keyword matching
 
----
-
-## 🚀 Setup & Running
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/{your-username}/MediBot.git
-cd MediBot
-```
-
-### Step 2: Verify Python Installation
-
-```bash
-python3 --version
-# Should output Python 3.6 or higher
-```
-
-### Step 3: Run the Chatbot
-
-```bash
-python3 chatbot.py
-```
-
-That's it — no `pip install` needed!
 
 ---
 
@@ -157,8 +127,3 @@ MediBot is built for **educational purposes only** as part of an AI/ML course pr
 
 ---
 
-## 👤 Author
-
-**Student Name:** [Your Name]  
-**Reg No:** [Your Registration Number]  
-**Course:** Fundamentals of AI and ML — CSA2001
